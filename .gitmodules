@@ -1,0 +1,3 @@
+[submodule "tests/Browser"]
+	path = tests/Browser
+	url = https://github.com/ttakahashi2013/test.git
